@@ -1,0 +1,29 @@
+_repo: O-troph-o_22648
+_version: 0.1.0
+alternative_title: O troféu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Santos, C. Afonso dos
+    gutenberg_agent_id: '25471'
+    url: http://www.gutenberg.org/2009/agents/25471
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22648'
+language: pt
+language_note: This ebooks uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\nTyp. da Cooperativa Militar\r\n1907"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: O trophéo
+url: http://www.gutenberg.org/ebooks/22648
